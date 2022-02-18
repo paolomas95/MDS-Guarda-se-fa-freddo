@@ -2,7 +2,7 @@
 
 > Paolo Masella, Luca Merlini, Gloria Tuccillo
 ***
- Il progetto è stato suddiviso in quattro parti principali:
+ Il progetto, sviluppato per l'esame di Programmazione in Python del Master in Data science for economics, business and finance, è stato suddiviso in quattro parti principali:
 1. **<h3>Aggiornamento del dataset :battery:</h3>**
     - il dataset originario illustrava i dati fino al **2012-12-01**; attraverso la tecnica del web scraping, utilizzando la libreria *selenium*, sono state estratte le misurazioni mensili di temperatura media per nazione e per città fino al **2020-12-01**
     - le misurazioni sono state estratte dal sito di Berkley Earth 
